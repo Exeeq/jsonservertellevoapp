@@ -33,30 +33,6 @@
       "hora": "99:99",
       "id": 3
     }
-  ],
-
-  "Usuarios": [
-    {
-      "id": 1,
-      "nombre": "",
-      "email": "",
-      "cumpleannos": "",
-      "dirreccion": "",
-      "fono": "",
-      "contrasenna": ""
-    }
-  ],
-
-  "Conductores": [
-    {
-      "id": 1,
-      "nombre": "",
-      "email": "",
-      "cumpleannos": "",
-      "dirreccion": "",
-      "fono": "",
-      "contrasenna": ""
-    }
   ]
 }
 
