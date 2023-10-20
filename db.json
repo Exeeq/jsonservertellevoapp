@@ -33,6 +33,30 @@
       "hora": "99:99",
       "id": 3
     }
+  ],
+
+  "Usuarios": [
+    {
+      "id": 1,
+      "nombre": "Camilo Espi",
+      "email": "cam.espi@duocuc.cl",
+      "cumpleannos": "01-01-2033",
+      "dirreccion": "calle uno 111",
+      "fono": "+56912345678",
+      "contrasenna": "camilo12345"
+    }
+  ],
+
+  "Conductores": [
+    {
+      "id": 1,
+      "nombre": "Tulio Japia",
+      "email": "tul.japia@conductor.duoc.cl",
+      "cumpleannos": "69-45-1965",
+      "dirreccion": "calle dos 222",
+      "fono": "+56934567890",
+      "contrasenna": "tulio12345"
+    }
   ]
 }
 
