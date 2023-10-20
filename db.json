@@ -43,7 +43,8 @@
       "cumpleannos": "01-01-2033",
       "dirreccion": "calle uno 111",
       "fono": "+56912345678",
-      "contrasenna": "camilo12345"
+      "contrasenna": "camilo12345",
+      "foto": ""
     }
   ],
 
@@ -55,7 +56,8 @@
       "cumpleannos": "69-45-1965",
       "dirreccion": "calle dos 222",
       "fono": "+56934567890",
-      "contrasenna": "tulio12345"
+      "contrasenna": "tulio12345",
+      "foto": ""
     }
   ]
 }
