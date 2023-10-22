@@ -175,6 +175,26 @@
       "id": 1,
       "esConductor": 1
       }
+  ],
+  "solicitud-viajes": [
+    {
+      "id": 1,
+      "viaje_id": 1,  
+      "usuario_id": 1,  
+      "fecha_solicitud": "2023-10-21T10:00:00",  
+      "estado": "pendiente",  
+      "mensaje": "Hola, me gustaría unirme a tu viaje", 
+      "aprobada_por_conductor": false 
+    },
+    {
+      "id": 2,
+      "viaje_id": 2,
+      "usuario_id": 2,
+      "fecha_solicitud": "2023-10-22T15:30:00",
+      "estado": "aceptada",
+      "mensaje": "Estoy emocionado por el viaje",
+      "aprobada_por_conductor": true
+    }
   ]
 }
 
