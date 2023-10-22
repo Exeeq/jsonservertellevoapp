@@ -37,28 +37,144 @@
 
   "Usuarios": [
     {
+      "results": [
+      {
+      "gender": "female",
+      "name": {
+      "title": "Miss",
+      "first": "Tejaswi",
+      "last": "Shet"
+      },
+      "location": {
+      "street": {
+      "number": 3165,
+      "name": "Dwaraka Nagar"
+      },
+      "city": "Mango",
+      "state": "Delhi",
+      "country": "India",
+      "postcode": 73965,
+      "coordinates": {
+      "latitude": "7.6060",
+      "longitude": "58.5924"
+      },
+      "timezone": {
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+      },
+      "email": "tejaswi.shet@example.com",
+      "login": {
+      "uuid": "ed265494-bd61-41c2-8e83-2a65784a41cf",
+      "username": "browncat671",
+      "password": "kelly",
+      "salt": "ZyehUkH4",
+      "md5": "7c5b8526edc2a314840ed113aaf3c1d4",
+      "sha1": "c67dc95edde03d98ab90bfe608623d6b89af8933",
+      "sha256": "473f324c2837e260a46990bfc90aef45c22b4788120eac65225374d04dd69321"
+      },
+      "dob": {
+      "date": "1969-01-15T07:16:17.178Z",
+      "age": 54
+      },
+      "registered": {
+      "date": "2009-06-21T11:16:45.143Z",
+      "age": 14
+      },
+      "phone": "8262179918",
+      "cell": "7144576652",
+      "id": {
+      "name": "UIDAI",
+      "value": "786438722091"
+      },
+      "picture": {
+      "large": "https://randomuser.me/api/portraits/women/43.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+      },
+      "nat": "IN"
+      }
+      ],
+      "info": {
+      "seed": "8ecb6ecfe09ac170",
+      "results": 1,
+      "page": 1,
+      "version": "1.4"
+      },
       "id": 1,
-      "nombre": "Camilo Espi",
-      "email": "cam.espi@duocuc.cl",
-      "cumpleannos": "01-01-2033",
-      "dirreccion": "calle uno 111",
-      "fono": "+56912345678",
-      "contrasenna": "camilo12345",
-      "foto": ""
-    }
+      "esConductor": false
+      }
   ],
 
   "Conductores": [
     {
+      "results": [
+      {
+      "gender": "female",
+      "name": {
+      "title": "Miss",
+      "first": "Myrtle",
+      "last": "Stone"
+      },
+      "location": {
+      "street": {
+      "number": 6503,
+      "name": "W Campbell Ave"
+      },
+      "city": "Adelaide",
+      "state": "Australian Capital Territory",
+      "country": "Australia",
+      "postcode": 5231,
+      "coordinates": {
+      "latitude": "-87.5891",
+      "longitude": "49.4389"
+      },
+      "timezone": {
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
+      }
+      },
+      "email": "myrtle.stone@example.com",
+      "login": {
+      "uuid": "bd08ae01-6978-4b11-8fe2-28c31f549e25",
+      "username": "blackdog570",
+      "password": "thongs",
+      "salt": "JBIQhgq7",
+      "md5": "104865aeaadeeca554b3019c035f9615",
+      "sha1": "d8dafda8820b6bfc4e781cba8f4b2bed0a921385",
+      "sha256": "a20892a2eb1ba593c78b95da7445a2aecdcccc506536f9baf98b818dddfb1c28"
+      },
+      "dob": {
+      "date": "1988-10-30T15:26:25.504Z",
+      "age": 34
+      },
+      "registered": {
+      "date": "2006-02-07T18:41:05.175Z",
+      "age": 17
+      },
+      "phone": "09-3359-1330",
+      "cell": "0493-367-975",
+      "id": {
+      "name": "TFN",
+      "value": "485999070"
+      },
+      "picture": {
+      "large": "https://randomuser.me/api/portraits/women/8.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+      },
+      "nat": "AU"
+      }
+      ],
+      "info": {
+      "seed": "47e6de0dade78779",
+      "results": 1,
+      "page": 1,
+      "version": "1.4"
+      },
       "id": 1,
-      "nombre": "Tulio Japia",
-      "email": "tul.japia@conductor.duoc.cl",
-      "cumpleannos": "69-45-1965",
-      "dirreccion": "calle dos 222",
-      "fono": "+56934567890",
-      "contrasenna": "tulio12345",
-      "foto": ""
-    }
+      "esConductor": true
+      }
   ]
 }
 
